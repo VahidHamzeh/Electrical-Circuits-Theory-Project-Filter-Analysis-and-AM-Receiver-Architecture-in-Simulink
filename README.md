@@ -38,7 +38,6 @@ The architecture is structured sequentially into four operational stages:
 
 ![Simulink Circuit Diagram](assets/SimulinkSimulaton.png)
 
-*(Note: To display your circuit layout on GitHub, save your verified image file as `simulink_circuit.png` inside an `images` directory in this repository).*
 
 ---
 
