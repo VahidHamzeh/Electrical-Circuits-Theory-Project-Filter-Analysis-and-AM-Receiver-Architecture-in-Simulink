@@ -4,7 +4,7 @@
 This repository contains the complete documentation, MATLAB scripts, and Simulink models for the final project of the **Electrical Circuit Theory** course, supervised by **Dr. R. Amiri**. The project encompasses a deep theoretical analysis of second-order analog filters and an end-to-end physical implementation of an Amplitude Modulation (AM) receiver system using the Simulink Simscape Electrical environment.
 
 ## Student Information
-* **Name:** Vahid Hamzeh Gerkani
+* **Name:** Vahid Hamzeh 
 * **Student ID:** 402101577
 
 ---
@@ -36,7 +36,7 @@ The architecture is structured sequentially into four operational stages:
 ### Simulink Model Schematic
 *Below is the complete physical circuit topology mapped inside the Simulink sandbox:*
 
-![Simulink Circuit Diagram](assets/simulink_circuit.png)
+![Simulink Circuit Diagram](assets/SimulinkSimulaton.png)
 
 *(Note: To display your circuit layout on GitHub, save your verified image file as `simulink_circuit.png` inside an `images` directory in this repository).*
 
