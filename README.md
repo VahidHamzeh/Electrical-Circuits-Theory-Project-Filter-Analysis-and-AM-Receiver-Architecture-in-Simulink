@@ -34,9 +34,9 @@ The architecture is structured sequentially into four operational stages:
 4. **Final Smoothing (Output LPF):** The post-multiplier signal passes through a final RC low-pass filter to reject high-frequency imaging products generated during multiplication, yielding the fully recovered audio signal (`y_output`).
 
 ### Simulink Model Schematic
-*Below is the complete physical circuit topology mapped inside the Simulink sandbox:*
 
-![Simulink Circuit Diagram](assets/SimulinkSimulaton.png)
+<img width="763" height="441" alt="SimulinkSimulation" src="https://github.com/user-attachments/assets/2ce2c864-a757-4066-ba0e-2cd419b2b471" />
+
 
 
 ---
