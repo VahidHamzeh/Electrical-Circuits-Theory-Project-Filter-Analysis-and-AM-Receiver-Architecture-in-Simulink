@@ -1,3 +1,7 @@
+![Design](https://img.shields.io/badge/Design-Analog_Filters-blue?style=for-the-badge&logo=microchip&logoColor=white)
+![Simulation](https://img.shields.io/badge/Environment-Simscape_Electrical-red?style=for-the-badge&logo=mathworks&logoColor=white)
+![Language](https://img.shields.io/badge/Analysis-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github&logoColor=white)
 # Electrical Circuit Theory Final Project - Fall 1403
 **Sharif University of Technology | Department of Electrical Engineering**
 
